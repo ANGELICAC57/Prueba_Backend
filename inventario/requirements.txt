@@ -1,0 +1,11 @@
+
+fastapi
+uvicorn
+sqlmodel
+pydantic
+requests
+python-dotenv
+
+pytest
+pytest-cov
+httpx
